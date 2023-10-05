@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tomás @tomasvsm
-- 👀 I’m interested in panoramic epidemiology and programming.
-- :mortar_board: I'm a biologist. I'm a PhD student in Geomatics and Space Systems at Institute for Advanced Space Studies "Mario Gulich" (CONAE - UNC).
-- 🌱 I’m currently learning about python, modelling and satellite image processing. I work with satellite images and mathematical models with the purpose of development of Dengue Early Warning System.
+- 👀 I’m interested in landscape epidemiology and programming.
+- :mortar_board:I'm a biologist, I have a diploma in Geomatics applied to Health. I'm currently a PhD student in Geomatics and Space Systems at the Gulich Institute (an institute belonging to the National University of Córdoba and the Argentinian Space Agency).
 - 📫 How to reach me tomasvsanmiguel@gmail.com
 
 <!---
