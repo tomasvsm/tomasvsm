@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Tomás @tomasvsm
-- 👀 I’m interested in landscape epidemiology and programming.
 - :mortar_board:I'm a biologist with a diploma in Geomatics Applied to Health. I'm currently a PhD student in Geomatics and Space Systems at the Gulich Institute (UNC-CONAE), with a doctoral fellowship from CONICET.
 - 📫 How to reach me tomasvsanmiguel@gmail.com
 
